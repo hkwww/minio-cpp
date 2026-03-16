@@ -2,11 +2,11 @@
 
 #include "miniocpp/INIReader.h"
 
-#include <ini.h>
-
 #include <algorithm>
 #include <cctype>
 #include <cstdlib>
+
+#include "miniocpp/ini.h"
 
 using std::string;
 
